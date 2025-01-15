@@ -1,4 +1,4 @@
-video-summarizer
+#video-summarizer
 This Python script allows you to summarize the content of a YouTube video using speech-to-text transcription and text summarization techniques.
 
 Prerequisites
